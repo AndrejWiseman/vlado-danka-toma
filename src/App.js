@@ -17,7 +17,7 @@ function App() {
 
       <div className="box">
         <h1 className='text-secondary' >Za Vladu i Danku :)</h1>
-        <h2 className='text-body' >Film: Toma</h2>
+        <h2 className='text-danger' >Film: Toma</h2>
 
         {/*<Button variant="primary">Primary</Button>*/}
         {/*<Button variant="info">Info</Button>*/}
