@@ -24,13 +24,13 @@ function App() {
 
         <div className="btn-box">
 
-          <a href="#">
+          <a href="https://onedrive.live.com/download?resid=ABBD7283DA843D66%2148588&authkey=!AEHTphDYTbFxfFo">
             <MDBBtn className='me-1' color='warning'>
               Preuzmi film
             </MDBBtn>
           </a>
 
-          <a href="#">
+          <a href="https://onedrive.live.com/embed?resid=ABBD7283DA843D66%2148588&authkey=!AEHTphDYTbFxfFo">
             <MDBBtn className='me-1' color='warning'>
               Gledaj Online
             </MDBBtn>
