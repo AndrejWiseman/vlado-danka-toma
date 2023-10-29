@@ -4,7 +4,7 @@
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import "@fortawesome/fontawesome-free/css/all.min.css";
 
-import Kartica from "./Card";
+// import Kartica from "./Card";
 
 // import Button from 'react-bootstrap/Button';
 
