@@ -4,6 +4,7 @@
 * {
   padding: 0;
   box-sizing: border-box;
+  background-color: #1e1e1e;
 }
 
 body {
@@ -26,7 +27,7 @@ code {
 
 .App {
   width: 100%;
-  min-height: 100vh;
+  min-height: 93vh;
   background: #1e1e1e;
   display: grid;
 }
@@ -35,7 +36,7 @@ code {
 .box {
   max-width: 550px;
   /*margin: 2rem auto;*/
-  border: 1px solid red;
+  /*border: 1px solid red;*/
   place-self: center;
 }
 

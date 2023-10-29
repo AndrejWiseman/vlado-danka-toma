@@ -16,8 +16,8 @@ function App() {
     <div className="App">
 
       <div className="box">
-        <h1>Za Vladu i Danku :)</h1>
-        <h2>Film: Toma</h2>
+        <h1 className='text-secondary' >Za Vladu i Danku :)</h1>
+        <h2 className='text-body' >Film: Toma</h2>
 
         {/*<Button variant="primary">Primary</Button>*/}
         {/*<Button variant="info">Info</Button>*/}
@@ -25,17 +25,18 @@ function App() {
         <div className="btn-box">
 
           <a href="https://onedrive.live.com/download?resid=ABBD7283DA843D66%2148588&authkey=!AEHTphDYTbFxfFo">
-            <MDBBtn className='me-1' color='warning'>
+            <MDBBtn className='me-1 bg-primary bg-gradient'>
               Preuzmi film
             </MDBBtn>
           </a>
 
           <a href="https://onedrive.live.com/embed?resid=ABBD7283DA843D66%2148588&authkey=!AEHTphDYTbFxfFo">
-            <MDBBtn className='me-1' color='warning'>
+            <MDBBtn className='me-1 bg-info bg-gradient'>
               Gledaj Online
             </MDBBtn>
           </a>
         </div>
+
 
 
 
