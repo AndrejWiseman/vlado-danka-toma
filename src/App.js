@@ -30,7 +30,7 @@ function App() {
             </MDBBtn>
           </a>
 
-          <a href="https://onedrive.live.com/embed?resid=ABBD7283DA843D66%2148588&authkey=!AEHTphDYTbFxfFo">
+          <a href="https://1drv.ms/v/s!AmY9hNqDcr2rgvtMQXVVBDOcJaVrGA?e=Ioh0zc">
             <MDBBtn className='me-1 bg-info bg-gradient'>
               Gledaj Online
             </MDBBtn>
